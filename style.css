@@ -89,13 +89,13 @@ a{
         width: 150px;
     }
     .page .element a{
-        left: 15%;
-        font-size: 16px;
-        width: 320px;
+        left: 12%;
+        font-size: 14px;
+        width: 280px;
         height: 44px;
     }
     .page h2{
-        font-size: 15px;
+        font-size: 14px;
     }
     br{
         display: block;
