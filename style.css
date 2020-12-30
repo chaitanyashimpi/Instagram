@@ -89,7 +89,8 @@ a{
         width: 150px;
     }
     .page .element a{
-        left: 12%;
+        left: 50%;
+        transform: translateX(-50%);
         font-size: 14px;
         width: 280px;
         height: 44px;
