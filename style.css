@@ -18,6 +18,10 @@ body::-webkit-scrollbar-thumb {
     background-color: #ac7c1d;
     border-radius: 5px;
 }
+::-moz-selection{
+    background-color: #333333;
+    color: #f9b52e;
+}
 ::selection{
     background-color: #333333;
     color: #f9b52e;
